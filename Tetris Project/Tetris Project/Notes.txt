@@ -1,0 +1,58 @@
+		switch (id) {
+		case 0: //tetrimino I
+			 tetriminoArray[4][4] = {
+			{false, true, false, false},
+			{false, true, false, false},
+			{false, true, false, false},
+			{false, true, false, false}
+			};
+			break;
+		case 1: //tetrimino O
+			bool tetriminoArray[4][4] = {
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false}
+			};
+			break;
+		case 2: //tetrimino T
+			bool tetriminoArray[4][4] = {
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false}
+			};
+			break;
+		case 3: //tetrimino S
+			bool tetriminoArray[4][4] = {
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false}
+			};
+			break;
+		case 4: //tetrimino Z
+			bool tetriminoArray[4][4] = {
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false}
+			};
+			break;
+		case 5: //tetrimino J
+			 bool tetriminoArray[4][4] = {
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false}
+			};
+			break;
+		case 6: //tetrimino L
+			bool tetriminoArray[4][4] = {
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false},
+			{false, false, false, false}
+			};
+			break;
+		}
